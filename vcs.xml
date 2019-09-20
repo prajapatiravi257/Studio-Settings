@@ -6,7 +6,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="Rio257" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Rio257@bitbucket.org/Rio257/sasgo24.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
   </component>
 </application>
